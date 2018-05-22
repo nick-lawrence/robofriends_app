@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+background: linear-gradient(326deg, rgba(163,56,204,1) 0%, rgba(6,141,201,1) 49%, rgba(0,212,255,1) 100%);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  font-family: 'Permanent Marker', cursive;
+  color: white;
+}
